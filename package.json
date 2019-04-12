@@ -1,0 +1,15 @@
+{
+  "name": "tappetite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "drupal-node.js": "git+https://github.com/rajatlnweb/drupal-nodejs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
