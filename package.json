@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "drupal-node.js": "git+https://github.com/rajatlnweb/drupal-nodejs.git",
-    "@slack/client": "^3.5.0"
+    "bluebird": "^3.5.4"
   },
   "scripts": {
     "start": "node ./node_modules/drupal-node.js/app.js",
