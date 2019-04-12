@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "drupal-node.js": "git+https://github.com/rajatlnweb/drupal-nodejs.git",
-    "bluebird": "^3.5.4"
+    "bluebird": "^3.5.4",
+    "async": "2.6.2"
   },
   "scripts": {
     "start": "node ./node_modules/drupal-node.js/app.js",
