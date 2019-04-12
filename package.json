@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "drupal-node.js": "git+https://github.com/rajatlnweb/drupal-nodejs.git",
+    "drupal-node.js": "1.0.11",
     "@slack/client": "^3.5.0"
   },
   "scripts": {
