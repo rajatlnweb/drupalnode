@@ -1,17 +1,15 @@
 {
-  "name": "tappetite",
+  "name": "slack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "drupal-node.js": "git+https://github.com/rajatlnweb/drupal-nodejs.git"
+    "drupal-node.js": "git+https://github.com/rajatlnweb/drupal-nodejs.git",
+    "@slack/client": "^3.5.0"
   },
   "scripts": {
-     "start": "node ./node_modules/drupal-node.js/app.js",
+    "start": "node ./node_modules/drupal-node.js/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "engines": {
-    "node": "10.15.1"
   },
   "keywords": [],
   "author": "",
